@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mullarohan&label=Profile%20views&color=0e75b6&style=flat" alt="mullarohan" /> </p>
 
-- 🔭 I’m currently working on **Student**
+- 🔭 I’m a Full Time **Student**
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mdrohanislam444@gmail.com**
 
-- 📄 Know about my experiences [Will be Update](Will be Update)
+- 📄 Know about my experiences [Will be Update]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
