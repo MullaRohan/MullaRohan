@@ -37,11 +37,6 @@
 <p> &nbsp;<img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=MullaRohan" alt="Codeforces Stats" />
 </p>
 
-<p> &nbsp
-  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/heatmap?username=MullaRohan" alt="Codeforces Heatmap" />
-</p>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mullarohan&show_icons=true&locale=en" alt="mullarohan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mullarohan&" alt="mullarohan" /></p>
