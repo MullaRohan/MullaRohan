@@ -38,6 +38,6 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=MullaRohan" alt="Codeforces Stats" width="400" />
   <img src="https://github-readme-stats.vercel.app/api?username=mullarohan&show_icons=true&locale=en" alt="GitHub Stats" width="400" />
 </p>
-
-<p align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=mullarohan&" alt="mullarohan" /></p>
+<!-- 
+<p align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=mullarohan&" alt="mullarohan" /></p> -->
 
