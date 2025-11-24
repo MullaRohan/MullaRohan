@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mdrohanislam444@gmail.com**
 
-- Go to [Portfolio](https://mullarohan.github.io/portfolio/)
+- Go to <a href="https://mullarohan.github.io/portfolio/" target="_blank" rel="noopener noreferrer"> Portfolio </a>
 
 <!-- Social Handel -->
 
