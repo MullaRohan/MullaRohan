@@ -231,7 +231,7 @@ Consistency and learning from failed submissions are a core part of my growth pr
 ---
 ## <img src="images/graph.gif" width="5%"> My Contribution Graph
 
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=abubakaristiak&theme=react-dark)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=mullarohan&theme=react-dark)
 
 ## 📫 Contact
 
