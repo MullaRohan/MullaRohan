@@ -4,7 +4,7 @@
 <h3 align="center">Programming Enthusiast • Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=CF35F7&random=true&width=500&lines=1000%2B+Problems+Solved+on+Various+Online+Judges;2.5%2B+Years+of+Coding+Experiences;Fluent+in+C%2C+C%2B%2B%2C+Python%2C+%26+JavaScript" alt="Typing SVG" /
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=CF35F7&random=true&width=552&lines=1000%2B+Problems+Solved+on+Various+Online+Judges;2.5%2B+Years+of+Coding+Experiences;Fluent+in+C%2C+C%2B%2B%2C+Python%2C+%26+JavaScript" alt="Typing SVG" />
 </p>
 
 ---
