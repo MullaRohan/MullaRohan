@@ -96,7 +96,7 @@ I am a **competitive programming–oriented developer** with a strong focus on
 
 <div align="center"> 
   <h2 align="center">Codeforces Info</h2> 
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mullarohan&theme=radical" alt="Codeforces Stats" width="720px" style="margin-top: 20px;" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mullarohan&theme=radical" alt="Codeforces Stats" width="600px" style="margin-top: 20px;" />
 </div>
 
 <!-- LeetCode -->
