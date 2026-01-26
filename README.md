@@ -236,7 +236,7 @@ Consistency and learning from failed submissions are a core part of my growth pr
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:rohanmulla@gmail.com">
+  <a href="mailto:mdrohanislam444@gmail.com">
     <img src="https://img.shields.io/badge/Email-rohanmulla%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/mullarohan/">
