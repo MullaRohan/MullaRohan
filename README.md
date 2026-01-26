@@ -100,7 +100,7 @@ I am a **competitive programming–oriented developer** with a strong focus on
 </div>
 
 <!-- LeetCode -->
-<div align="center"> 
+<!-- <div align="center"> 
   <h2 align="center">LeetCode Info</h2>  
 
   <p align="center">
@@ -125,7 +125,7 @@ I am a **competitive programming–oriented developer** with a strong focus on
       width="720px"
     />
   </div>
-</div>
+</div> -->
 
 
 ---
@@ -214,7 +214,7 @@ Consistency and learning from failed submissions are a core part of my growth pr
         />
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td colspan="2" align="center">
         <img 
           src="https://github-readme-streak-stats.herokuapp.com?user=mullarohan&theme=radical&hide_border=true" 
@@ -222,7 +222,7 @@ Consistency and learning from failed submissions are a core part of my growth pr
           width="720px" 
         />
       </td>
-    </tr>
+    </tr> -->
     
   </table>
 </div>
