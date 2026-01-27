@@ -71,7 +71,9 @@ I am a **competitive programming–oriented developer** with a strong focus on
     <img src="https://wakatime.com/badge/user/04ebf8d7-e196-44bb-9239-b49ad5180c16.svg?range=all_24_months" alt="Wakatime" height="28"/>
   </a>
 </p>
-<!-- (https://wakatime.com/badge/user/04ebf8d7-e196-44bb-9239-b49ad5180c16.svg) -->
+
+---
+<!-- Competetive Programming Profiles -->
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="10%"> My Competitive Programming Profiles
 
@@ -93,7 +95,7 @@ I am a **competitive programming–oriented developer** with a strong focus on
   </a>
 </p>
 
-
+---
 
 <div align="center"> 
   <h2 align="center">Codeforces Info</h2> 
@@ -242,6 +244,9 @@ Consistency and learning from failed submissions are a core part of my growth pr
   </a>
   <a href="https://www.linkedin.com/in/mullarohan/">
     <img src="https://img.shields.io/badge/LinkedIn-Rohan%20Mulla-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/MullaRohan/">
+    <img src="https://img.shields.io/badge/Facebook-Rohan_Mulla-brightgreen?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
