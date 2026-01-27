@@ -245,7 +245,7 @@ Consistency and learning from failed submissions are a core part of my growth pr
   <a href="https://www.linkedin.com/in/mullarohan/">
     <img src="https://img.shields.io/badge/LinkedIn-Rohan%20Mulla-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/MullaRohan/">
+  <a href="https://www.facebook.com/MullaRohan/", target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Rohan_Mulla-brightgreen?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
