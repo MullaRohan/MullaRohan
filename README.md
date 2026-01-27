@@ -190,8 +190,8 @@ Consistency and learning from failed submissions are a core part of my growth pr
     </td>
     </td>
         <td align="center" width="96">
-        <img src="images/figma.gif" width="48" height="48" alt="Figma" />
-      <br>Figma
+        <img src="images/js.gif" width="48" height="48" alt="Figma" />
+      <br>JavaScript
   </tr>
 </table>
 
