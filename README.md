@@ -68,7 +68,7 @@ I am a **competitive programming–oriented developer** with a strong focus on
   <img src="https://img.shields.io/badge/LeetCode------yellowgreen?logo=leetcode&logoColor=white" alt="LeetCode" height="28"/>
   &nbsp;&nbsp;
   <a href="https://wakatime.com/badge/user/04ebf8d7-e196-44bb-9239-b49ad5180c16.svg?range=all_24_months">
-    <img src="https://wakatime.com/badge/user/04ebf8d7-e196-44bb-9239-b49ad5180c16.svg?range=all_24_months" alt="Wakatime" height="28"/>
+    <img src="https://wakatime.com/badge/user/04ebf8d7-e196-44bb-9239-b49ad5180c16.svg?range=all_24_months" alt="Wakatime" height="30"/>
   </a>
 </p>
 
