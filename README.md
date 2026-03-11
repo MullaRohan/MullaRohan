@@ -49,7 +49,7 @@ I am a **competitive programming–oriented developer** with a strong focus on
 - 🌱 Constantly learning and expanding my skill set
 
 ---
-## Portfolio and Resume
+## <img src="images/portfolio_img.gif" width="8.5%">  Portfolio and Resume
 <p align="center">
  <a href="https://mullarohan.iam.bd/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-click link-2F8D46?style=for-the-badge&logo=portfolio&logoColor=white"/>
