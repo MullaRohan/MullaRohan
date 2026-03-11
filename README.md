@@ -48,6 +48,15 @@ I am a **competitive programming–oriented developer** with a strong focus on
 - 🎯 Goal-oriented and passionate about clean, efficient code
 - 🌱 Constantly learning and expanding my skill set
 
+---
+## Portfolio and Resume
+ <a href="https://mullarohan.iam.bd/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-click link-2F8D46?style=for-the-badge&logo=portfolio&logoColor=white"/>
+  </a>
+   <a href="https://drive.google.com/file/d/1QKt6AaB1JDziBcVTdbCYhjJb0suxkUuX/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-click link-2F8D46?style=for-the-badge&logo=&logoColor=white"/>
+  </a>
+
 <br clear="right"/>
 
 ---
